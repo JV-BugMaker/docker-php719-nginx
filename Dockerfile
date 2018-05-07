@@ -1,5 +1,5 @@
 FROM centos:7.3.1611
-MAINTAINER jv <jv.gu@aihuishou.com>
+MAINTAINER jv <gjw15546192557@gmail.com>
 
 ENV NGINX_VERSION 1.10.2
 ENV PHP_VERSION 7.1.9
